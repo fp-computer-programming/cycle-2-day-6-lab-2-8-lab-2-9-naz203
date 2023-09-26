@@ -16,3 +16,4 @@ else :
          print('earned bronze medal')
 
          if a<=8: print (' no meadal earned')
+         
